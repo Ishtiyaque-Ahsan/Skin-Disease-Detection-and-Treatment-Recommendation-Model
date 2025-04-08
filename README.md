@@ -1,0 +1,1 @@
+# Skin-Disease-Detection-and-Treatment-Recommendation-Model
