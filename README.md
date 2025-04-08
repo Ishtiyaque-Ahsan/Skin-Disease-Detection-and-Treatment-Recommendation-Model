@@ -12,7 +12,14 @@ Skin Disease Detection, Severity Classification, and Treatment Recommendation Sy
 
         • Future Work: To integrate Severity Classification Feature to show mild, moderate, severe conditions.
 
+
+
+
+
         Project Images:
+
+
+
 
         
         Disease Detection
